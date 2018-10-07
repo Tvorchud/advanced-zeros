@@ -34,4 +34,4 @@ module.exports = function getZerosCount(number, base) {
   }
   arrFinal.sort((a,b)=> a-b);
   return arrFinal[0];
-}
+} 
